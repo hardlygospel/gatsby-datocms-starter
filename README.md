@@ -1,5 +1,7 @@
 # Gatsby Portfolio Website
 
+[![Stars](https://img.shields.io/github/stars/hardlygospel/gatsby-datocms-starter?style=for-the-badge&color=yellow)](https://github.com/hardlygospel/gatsby-datocms-starter/stargazers) [![Forks](https://img.shields.io/github/forks/hardlygospel/gatsby-datocms-starter?style=for-the-badge&color=blue)](https://github.com/hardlygospel/gatsby-datocms-starter/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hardlygospel/gatsby-datocms-starter?style=for-the-badge&color=green)](https://github.com/hardlygospel/gatsby-datocms-starter/commits) [![License](https://img.shields.io/github/license/hardlygospel/gatsby-datocms-starter?style=for-the-badge)](https://github.com/hardlygospel/gatsby-datocms-starter/blob/main/LICENSE)
+
 This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
 
 ![Preview](preview.png)
